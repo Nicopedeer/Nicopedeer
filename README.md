@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas </h1>
-<h3 align="center">I am a Backend developer with some experience in Frontend. I have worked on individual and team projects, which has allowed me to acquire both technical and collaborative skills. I am seeking opportunities to learn and grow professionally, while maintaining a focus on continuous improvement and genuine effectiveness. In order to improve my soft skills I was selected as a Teacher Assitant in SoyHenry, in that role I had to manage a group of new students and guided them through their bootcamp</h3>
+<h3 align="center">I am a FullStack developer. I have worked on individual and team projects, which has allowed me to acquire both technical and collaborative skills. I am seeking opportunities to learn and grow professionally, while maintaining a focus on continuous improvement and genuine effectiveness. In order to improve my soft skills I was selected as a Teacher Assitant in SoyHenry, in that role I had to manage a group of new students and guided them through their bootcamp</h3>
 
 - 📫 How to reach me **nicopedernera@hotmail.com.ar**
 - 📓 featured repository: <a href="https://github.com/Nicopedeer/AgroManager-Back"> Click here </a>
